@@ -910,6 +910,17 @@ hr{
 .covid i{
     font-size: 80px;
 }
+footer{
+    background-color: var(--azul);
+    margin: auto;
+    text-align: center;
+    color: var(--blanco);
+    padding: 30px;
+}
+footer img{
+    width: 200px;
+    margin-bottom: 20px;
+}
 /*Animaciones*/
 @keyframes animationcard{
     from{
