@@ -43,6 +43,7 @@ nav ul li a {
     line-height: .5;
     position: relative;
     font-weight: bold;
+    font-size: 18px;
 }
 nav ul li a:after{
     content: "";
@@ -977,7 +978,7 @@ hr{
       }
       nav ul li a {
         display: block;
-        font-size: 20px;
+        font-size: 16px;
       }
       nav ul li a:after{
         display: none;
