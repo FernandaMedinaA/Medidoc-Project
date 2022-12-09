@@ -571,6 +571,7 @@ color: var(--blanco);
 #slider1 .overview li img{
     object-fit: cover;
     width: 100%;
+    filter: grayscale(100%);
 }
 /*.nota{
     width: 32%;
